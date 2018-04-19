@@ -15,6 +15,8 @@ Manthey, J.D., Campillo, L.C., Burns, K.J. and Moyle, R.G., 2016. Comparison of 
  
  ***Procesamiento de datos:***
  1) Se obtendrá el alineamiento con el programa ipyrad.
- 2)Se obtendrá el modelo evolutivo de sustitución de sencias con el programa jModeltest v.2.17 o con el programa PartitionFinder.
- 3) El análisis filogenético se realizará en el programa Mr.Bayes v. 3.2.1
+ 
+ 2)Se obtendrá el modelo evolutivo de sustitución de secuencias con el programa jModeltest v.2.17 o con el programa PartitionFinder.
+
+3) El análisis filogenético se realizará en el programa Mr.Bayes v. 3.2.1
  
