@@ -12,6 +12,9 @@ Manthey, J.D., Campillo, L.C., Burns, K.J. and Moyle, R.G., 2016. Comparison of 
 
 
  Están depositados en el proyecto: BioProject ID PRJNA296706.https://www.ncbi.nlm.nih.gov/bioproject/296706
-
-
-
+ 
+ ***Procesamiento de datos:***
+ 1) Se obtendrá el alineamiento con el programa ipyrad.
+ 2)Se obtendrá el modelo evolutivo de sustitución de sencias con el programa jModeltest v.2.17 o con el programa PartitionFinder.
+ 3) El análisis filogenético se realizará en el programa Mr.Bayes v. 3.2.1
+ 
