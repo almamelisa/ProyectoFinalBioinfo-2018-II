@@ -1,13 +1,13 @@
-**Filogenia del género *Piranga* utilizando datos Rad seq*
+# Filogenia del género *Piranga* utilizando datos Rad seq
 
 
 
 
 
 
-**Avance 2 Trabajo final
+## Avance 2 Trabajo final
 
-Mis avances se dividen en 3:
+### Mis avances se dividen en 3:
 
 1. Obtener datos y entender como están organizados
 
@@ -38,7 +38,7 @@ Se revisaron los siguientes tutoriales:
 http://ipyrad.readthedocs.io/tutorial_intro_cli.html
 http://ipyrad.readthedocs.io/tutorial_advanced_cli.html
 
->-- Se montarion los  datos en el dockerfile de ipyrad  y corrieron los tutoriales de prueba de ipyrad:
+>-- Se montaron los  datos en el dockerfile de ipyrad  y corrieron los tutoriales de prueba de ipyrad:
 
 Link dockerfile: https://hub.docker.com/r/lipcomputing/ipyrad/
 docker run -it -v /home/melisa/trabajo_final/:/home/test lipcomputing/ipyrad /bin/bash
