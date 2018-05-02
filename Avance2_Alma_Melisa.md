@@ -41,7 +41,9 @@ http://ipyrad.readthedocs.io/tutorial_advanced_cli.html
 >-- Se montaron los  datos en el dockerfile de ipyrad  y corrieron los tutoriales de prueba de ipyrad:
 
 Link dockerfile: https://hub.docker.com/r/lipcomputing/ipyrad/
-docker run -it -v /home/melisa/trabajo_final/:/home/test lipcomputing/ipyrad /bin/bash
+
+	docker run -it -v /home/melisa/trabajo_final/:/home/test lipcomputing/ipyrad /bin/bash
+
 
  
 iii. Artículos leídos:
