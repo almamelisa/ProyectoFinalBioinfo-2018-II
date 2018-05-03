@@ -76,14 +76,17 @@ iii. Artículos leídos:
 
 Bajar datos:
 
-Primero instalar las funciones toolkit
+1. Instalar las funciones toolkit
 
 	wget "ftp://ftp-trace.ncbi.nlm.nih.gov/sra/sdk/current/sratoolkit.current-centos_linux64.tar.gz"
 	tar -xzf sratoolkit.current-centos_linux64.tar.gz
-	./fastq-dump -X 5 -Z SRR390728
-	./fastq-dump https://trace.ncbi.nlm.nih.gov/Traces/sra/sra.cgi?cmd=search_obj&m=&s=&term=SRP064007&go=Search
-
-
 	
+2. Bajar secuencias en formato sra.
+
+	./prefetch --option-file ../../SRR_Acc_List.txt 
+
+3. Convertir archivos sra en fastq
+
+	./fastq-dump --split-files ../../data/*.sra -O ../../data/fastq/
 	
 	
