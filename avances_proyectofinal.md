@@ -76,12 +76,13 @@ iii. Artículos leídos:
 
 Bajar datos:
 
-1. Instalar las funciones toolkit
+1. Instalar las funciones toolkit, se bajó toolkit del siguiente link: https://ftp-trace.ncbi.nlm.nih.gov/sra/sdk/2.9.0/sratoolkit.2.9.0-mac64.tar.gz en la ubicación /Users/BEHB/Desktop/trabajo_final
+Descomprimir archivo:
 
-	wget "ftp://ftp-trace.ncbi.nlm.nih.gov/sra/sdk/current/sratoolkit.current-centos_linux64.tar.gz"
 	tar -xzf sratoolkit.current-centos_linux64.tar.gz
 	
 2. Bajar secuencias en formato sra.
+En la ubicación: /Users/BEHB/Desktop/trabajo_final/sratoolkit.2.9.0-mac64/bin
 
 	./prefetch --option-file ../../SRR_Acc_List.txt 
 
