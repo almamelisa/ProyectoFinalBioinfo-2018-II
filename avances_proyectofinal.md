@@ -89,5 +89,9 @@ En la ubicación: /Users/BEHB/Desktop/trabajo_final/sratoolkit.2.9.0-mac64/bin
 3. Convertir archivos sra en fastq
 
 	./fastq-dump --split-files ../../data/*.sra -O ../../data/fastq/
-	
-	
+4. Ingresar al docker:
+	docker restart f978156c5fab
+	docker exec -it f978156c5fab /bin/bash
+5. Iniciar ipyrad
+ 	ipyrad -p prueba1/prueba1.txt -s 1234567
+6. 
