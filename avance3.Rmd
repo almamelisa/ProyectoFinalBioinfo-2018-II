@@ -1,8 +1,9 @@
----
-title: "Filogenia del género *Piranga* utilizando datos Rad seq"
-output: github_document
----
-1. Instalar las funciones toolkit, se bajó toolkit del siguiente link: https://ftp-trace.ncbi.nlm.nih.gov/sra/sdk/2.9.0/sratoolkit.2.9.0-mac64.tar.gz 
+
+# "Filogenia del género *Piranga* utilizando datos Rad seq"
+## Avance3
+
+1. Instalar las funciones toolkit, se bajó toolkit del siguiente link:
+https://ftp-trace.ncbi.nlm.nih.gov/sra/sdk/2.9.0/sratoolkit.2.9.0-mac64.tar.gz 
 en la ubicación /Users/BEHB/Desktop/trabajo_final.
 
 Descomprimir archivo:
@@ -35,10 +36,10 @@ ipyrad
 ```
 5. Generar documento de parámetros en ipyrad:
 ```{bash}
-
+ipyrad -n prueba0_85
 ```
 6. Correr ipyrad
 ```{bash}
-
+ipyrad -p params-prueba0_85.txt -s 1234567
 ```
 
