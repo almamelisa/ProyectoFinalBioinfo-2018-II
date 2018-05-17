@@ -3,6 +3,7 @@
 ## Avance3
 
 Resultados:
+
 #nexus
 begin data;
   dimensions ntax=30 nchar=2834815;
