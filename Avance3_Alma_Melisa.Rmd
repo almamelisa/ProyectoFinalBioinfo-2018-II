@@ -2,7 +2,7 @@
 # "Filogenia del género *Piranga* utilizando datos Rad seq"
 ## Avance3
 
-Resultados nexus link: 
+Resultados nexus link: https://github.com/almamelisa/ProyectoFinalBioinfo-2018-II/blob/master/iptest.nex
 
 ### Script:
 
