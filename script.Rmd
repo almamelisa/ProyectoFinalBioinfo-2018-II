@@ -35,10 +35,10 @@ ipyrad
 ```
 5. Generar documento de parámetros en ipyrad:
 ```{bash}
-
+-ipyrad -n prueba0_85
 ```
 6. Correr ipyrad
 ```{bash}
-
+-ipyrad -p params-prueba0_85.txt -s 1234567
 ```
 
