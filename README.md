@@ -8,7 +8,7 @@ The organization of this repository is:
 
 This README
 
-Contains three previews in markdown format:
+Three previews in markdown format:
 
 Avance_1.md https://github.com/almamelisa/ProyectoFinalBioinfo-2018-II/blob/master/Avance_1.md
 
