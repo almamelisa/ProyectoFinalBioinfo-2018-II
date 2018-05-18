@@ -12,7 +12,9 @@ This README
 Contains three previews in markdown format:
 
 Avance_1.md https://github.com/almamelisa/ProyectoFinalBioinfo-2018-II/blob/master/Avance_1.md
+
 Avance_2.md https://github.com/almamelisa/ProyectoFinalBioinfo-2018-II/blob/master/Avance_2.md
+
 Avance_3.md https://github.com/almamelisa/ProyectoFinalBioinfo-2018-II/blob/master/Avance_3.md
 
 A script under construction on Rmarkdown format:
