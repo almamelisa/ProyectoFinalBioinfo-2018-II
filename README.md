@@ -10,12 +10,12 @@ This README
 
 Three previews in markdown format:
 
-[Avance_1.md] (https://github.com/almamelisa/ProyectoFinalBioinfo-2018-II/blob/master/Avance_1.md)
+[Avance_1.md](https://github.com/almamelisa/ProyectoFinalBioinfo-2018-II/blob/master/Avance_1.md)
 
-[Avance_2.md] (https://github.com/almamelisa/ProyectoFinalBioinfo-2018-II/blob/master/Avance_2.md)
+[Avance_2.md](https://github.com/almamelisa/ProyectoFinalBioinfo-2018-II/blob/master/Avance_2.md)
 
-[Avance_3.md] (https://github.com/almamelisa/ProyectoFinalBioinfo-2018-II/blob/master/Avance_3.md)
+[Avance_3.md](https://github.com/almamelisa/ProyectoFinalBioinfo-2018-II/blob/master/Avance_3.md)
 
-A [script under construction on Rmarkdown format] (https://github.com/almamelisa/ProyectoFinalBioinfo-2018-II/blob/master/script.Rmd)
+A [script under construction on Rmarkdown format](https://github.com/almamelisa/ProyectoFinalBioinfo-2018-II/blob/master/script.Rmd)
 
 Data folder (empty for now).
