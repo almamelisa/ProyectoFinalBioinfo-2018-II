@@ -2,8 +2,13 @@
 title: "Filogenia del género *Piranga* utilizando datos Rad seq"
 output: github_document
 ---
+```{bash}
+mkdir trabajo_final
+```
 1. Instalar las funciones toolkit, se bajó toolkit del siguiente link: https://ftp-trace.ncbi.nlm.nih.gov/sra/sdk/2.9.0/sratoolkit.2.9.0-mac64.tar.gz 
-en la ubicación /Users/BEHB/Desktop/trabajo_final.
+en la ubicación WORKING_DIR=/your/working/dir/trabajo_final.
+
+WORKING_DIR=/your/working/dir/
 
 Descomprimir archivo:
 ```{bash}
@@ -13,13 +18,13 @@ tar -xzvf  sratoolkit.2.9.0-mac64.tar.gz
 2. Bajar secuencias en formato sra. En la ubicación: 
 
 ```{bash}
-cd /Users/BEHB/Desktop/trabajo_final/sratoolkit.2.9.0-mac64/bin
+cd /your/working/dir/trabajo_final/sratoolkit.2.9.0-mac64/bin
 ./prefetch --option-file ../../SRR_Acc_List.txt
 ```
 3. Convertir archivos sra en fastq
 ```{bash}
-cd /Users/BEHB/Desktop/trabajo_final/sratoolkit.2.9.0-mac64/bin
-./fastq-dump --split-files /Users/BEHB/ncbi/public/sra/*.sra -O ../../data/fastq/
+cd /your/working/dir/trabajo_final/sratoolkit.2.9.0-mac64/bin
+./fastq-dump --split-files /your/working/dir/ncbi/public/sra/*.sra -O ../../data/fastq/
 ```
 4. Instalar ipyrad 
 ```{bash}
