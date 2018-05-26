@@ -16,8 +16,8 @@ Three previews in markdown format:
 
 [Avance_3.md](https://github.com/almamelisa/ProyectoFinalBioinfo-2018-II/blob/master/Avance_3.md)
 
-Bin folder:
+TWO SCRIPTS:
 
-bash:Obtain data, and ipyrad aligment.
+[Bash](https://github.com/almamelisa/ProyectoFinalBioinfo-2018-II/blob/master/arbolphangorn.R) To obtain data and ipyrad aligment.
 
-Rscript: Obtain phylogenetic hypothesis.
+[Rscript](https://github.com/almamelisa/ProyectoFinalBioinfo-2018-II/blob/master/datos_iypyrad.sh) To obtain phylogenetic hypothesis.
