@@ -17,5 +17,7 @@ Three previews in markdown format:
 [Avance_3.md](https://github.com/almamelisa/ProyectoFinalBioinfo-2018-II/blob/master/Avance_3.md)
 
 Bin folder:
+
 bash:Obtain data, and ipyrad aligment.
+
 Rscript: Obtain phylogenetic hypothesis.
